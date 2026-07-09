@@ -132,7 +132,7 @@ st.markdown("""
         padding: 15px 5px;
         font-weight: 800;
         font-size: 11px;
-        letter-spacing: 3px;
+        letter-spacing: 5px;
         border: 1px solid #d1d5db;
         border-radius: 12px;
         z-index: 9999;
