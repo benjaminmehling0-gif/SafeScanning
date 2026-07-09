@@ -670,7 +670,8 @@ setTimeout(startScanner, 400);
                     pass
                 
                 if not product and barcode in OFFLINE_DATA:
-                    st.write("Produkt nicht in der Datenbank gefunden")
+                    product = OFFLINE_DATA[barcode]
+                    is_offline = True
             
                 
                 if product:
