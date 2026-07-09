@@ -125,7 +125,7 @@ st.markdown("""
         top: 25%;
         left: 10px;
         width: 45px;
-        height: 250px;
+        height: 600px;
         background: linear-gradient(180deg, #f3f4f6, #e5e7eb, #f3f4f6);
         color: #6B7280;
         text-align: center;
@@ -775,7 +775,7 @@ with tab_settings:
             st.markdown("""
                 <div style="text-align: center; margin: 15px 0;">
                     <span style="text-decoration: line-through; color: #9CA3AF; font-size: 18px; margin-right: 12px; font-weight: 500;">7 €</span>
-                    <span style="color: #10B981; font-size: 28px; font-weight: 800; background-color: #E6F4EA; padding: 6px 16px; border-radius: 14px; border: 1px solid #A7F3D0; display: inline-block;">3,99 €</span>
+                    <span style="color: #10B981; font-size: 28px; font-weight: 800; background-color: #E6F4EA; padding: 6px 16px; border-radius: 14px; border: 1px solid #A7F3D0; display: inline-block;">4,99 €</span>
                     <p style="color: #6B7280; font-size: 13px; margin-top: 8px; font-weight: 500; text-align: center;">monatlich</p>
                 </div>
             """, unsafe_allow_html=True)
