@@ -124,7 +124,7 @@ st.markdown("""
         position: fixed;
         top: 25%;
         left: 10px;
-        width: 70px;
+        width: 200px;
         height: 600px;
         background: linear-gradient(180deg, #f3f4f6, #e5e7eb, #f3f4f6);
         color: #6B7280;
