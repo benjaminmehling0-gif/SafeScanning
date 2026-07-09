@@ -140,7 +140,7 @@ st.markdown("""
         display: flex;
         align-items: center;
         justify-content: center;
-        writing-mode: vertical-rl;
+        writing-mode: horizontal-rl;
         text-orientation: mixed;
     }
     .ad-spacer {
