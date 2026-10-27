@@ -223,7 +223,7 @@ ui = {
         "not_found": "⚠️ Produkt nicht in der Datenbank gefunden.", 
         "lang_select": "Wähle deine Sprache:", 
         "saved_msg": "✅ Profil erfolgreich gespeichert!", 
-        "team_title": "👥 Entwickler-Team",
+        "team_title": "👥 Entwickler",
         "w_laktose": "🥛 Enthält Laktose/Milch", 
         "w_fruktose": "🍎 Enthält Fruktose", 
         "w_histamin": "🍷 Histamin-Risiko erkannt", 
